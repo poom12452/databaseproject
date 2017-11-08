@@ -56,11 +56,10 @@
 
 
   <div id="footer">
-    <p class="lf">Copyright &copy; 2010 <a href="#">SiteName</a> - All Rights Reserved</p>
-    <p class="rf">Design by <a href="http://chocotemplates.com/">ChocoTemplates.com</a></p>
-    <div style="clear:both;"></div>
+      <p class="lf">Copyright &copy; 2017 <a href="#">SiteName</a> - All Rights Reserved</p>
+      <p class="rf">MovieHub <br>Krittikorn Kramgomut 5822771432<br>Thanapong Maleewan 5822790275 <br> Thanarath Piyakulpinyo</p>
+      <div style="clear:both;"></div>
   </div>
-</div>
-<!-- END PAGE SOURCE -->
-</body>
-</html>
+  <!-- END PAGE SOURCE -->
+  </body>
+  </html>
