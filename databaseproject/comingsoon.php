@@ -27,10 +27,10 @@
       <ul>
         <li><a href="Home">HOME</a></li>
         <li><a href="movie.php">Now Showing</a></li>
-        <li><a class="active" href="#">Coming Soon</a></li>
-        <li><a href="#">Promotion</a></li>
-        <li><a href="#">Sign Up/Login</a></li>
-        <li><a href="#">Contact Us</a></li>
+        <li><a class="active" href="comingsoon.php">Coming Soon</a></li>
+        <li><a href="promotion.php">Promotion</a></li>
+        <li><a href="Login.php">Sign Up/Login</a></li>
+        <li><a href="Contact.php">Contact Us</a></li>
       </ul>
     </div>
     <div id="sub-navigation">
@@ -54,7 +54,7 @@
           <p class="text-right"><a href="#">See all</a></p>
         </div>
         <div class="movie">
-          <div class="movie-image"> <span class="play"><span class="name">X-MAN</span></span> <a href="#"><img src="css/images/movie1.jpg" alt="" /></a> </div>
+          <div class="movie-image"> <span class="play"><span class="name">X-MAN</span></span> <a href="comingsoon.php"><img src="css/images/movie1.jpg" alt="" /></a> </div>
           <div class="rating">
             <p>RATING</p>
             <div class="stars">
@@ -63,7 +63,7 @@
             <span class="comments">12</span> </div>
         </div>
         <div class="movie">
-          <div class="movie-image"> <span class="play"><span class="name">SPIDER MAN 2</span></span> <a href="#"><img src="css/images/movie2.jpg" alt="" /></a> </div>
+          <div class="movie-image"> <span class="play"><span class="name">SPIDER MAN 2</span></span> <a href="comingsoon.php"><img src="css/images/movie2.jpg" alt="" /></a> </div>
           <div class="rating">
             <p>RATING</p>
             <div class="stars">

@@ -26,10 +26,10 @@
         <ul>
           <li><a href="Home">HOME</a></li>
           <li><a href="movie.php">Now Showing</a></li>
-          <li><a class="active" href="comingsoon.php">Coming Soon</a></li>
+          <li><a href="comingsoon.php">Coming Soon</a></li>
           <li><a href="promotion.php">Promotion</a></li>
           <li><a href="Login.php">Sign Up/Login</a></li>
-          <li><a href="Contact.php">Contact Us</a></li>
+          <li><a class="active" href="Contract.pph">Contact us</a></li>
         </ul>
       </div>
       <div id="sub-navigation">
@@ -45,15 +45,3 @@
         </div>
       </div>
     </div>
-
-
-
-
-<div id="footer">
-    <p class="lf">Copyright &copy; 2017 <a href="#">SiteName</a> - All Rights Reserved</p>
-    <p class="rf">MovieHub <br>Krittikorn Kramgomut 5822771432<br>Thanapong Maleewan 5822790275 <br> Thanarath Piyakulpinyo</p>
-    <div style="clear:both;"></div>
-</div>
-<!-- END PAGE SOURCE -->
-</body>
-</html>

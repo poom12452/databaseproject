@@ -26,10 +26,11 @@
     <div id="navigation">
       <ul>
         <li><a href="Home">HOME</a></li>
-        <li><a href="#">Now Showing</a></li>
-        <li><a href="#">Promotion</a></li>
-        <li><a class="active" href="#">Sign Up/Login</a></li>
-        <li><a href="#">Contact Us</a></li>
+        <li><a href="movie.php">Now Showing</a></li>
+        <li><a href="comingsoon.php">Coming Soon</a></li>
+        <li><a href="promotion.php">Promotion</a></li>
+        <li><a class="active" href="Login.php">Sign Up/Login</a></li>
+        <li><a href="Contact.php">Contact Us</a></li>
       </ul>
     </div>
 
