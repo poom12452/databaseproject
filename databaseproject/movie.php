@@ -27,7 +27,7 @@
       <ul>
         <li><a href="Home">HOME</a></li>
         <li><a class="active" href="#">Now Showing</a></li>
-        <li><a href="#">Coming Soon</a></li>
+        <li><a href="comingsoon.php">Coming Soon</a></li>
         <li><a href="#">Promotion</a></li>
         <li><a href="#">Sign Up/Login</a></li>
         <li><a href="#">Contact Us</a></li>
@@ -109,7 +109,7 @@
         </div>
         <div class="cl">&nbsp;</div>
       </div>
-      
+
 
 
   <div id="footer">

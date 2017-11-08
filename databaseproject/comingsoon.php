@@ -15,7 +15,7 @@
     <div class="Logo">
       <h1>MovieHub</h1>
   </div>
-    <div class="social"> <span>FOLLOW US ON ffff:</span>
+    <div class="social"> <span>FOLLOW US ON:</span>
       <ul>
         <li><a class="twitter" href="#">twitter</a></li>
         <li><a class="facebook" href="#">facebook</a></li>
@@ -26,7 +26,7 @@
     <div id="navigation">
       <ul>
         <li><a href="Home">HOME</a></li>
-        <li><a href="#">Now Showing</a></li>
+        <li><a href="movie.php">Now Showing</a></li>
         <li><a class="active" href="#">Coming Soon</a></li>
         <li><a href="#">Promotion</a></li>
         <li><a href="#">Sign Up/Login</a></li>
