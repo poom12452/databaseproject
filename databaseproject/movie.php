@@ -28,7 +28,7 @@
         <li><a href="Home">HOME</a></li>
         <li><a class="active" href="movie.php">Now Showing</a></li>
         <li><a href="comingsoon.php">Coming Soon</a></li>
-        <li><a href="promtion.php">Promotion</a></li>
+        <li><a href="promotion.php">Promotion</a></li>
         <li><a href="Login.php">Sign Up/Login</a></li>
         <li><a href="Contact.php">Contact Us</a></li>
       </ul>
