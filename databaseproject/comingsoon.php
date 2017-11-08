@@ -15,7 +15,7 @@
     <div class="Logo">
       <h1>MovieHub</h1>
   </div>
-    <div class="social"> <span>FOLLOW US ON:</span>
+    <div class="social"> <span>FOLLOW US ON ffff:</span>
       <ul>
         <li><a class="twitter" href="#">twitter</a></li>
         <li><a class="facebook" href="#">facebook</a></li>
