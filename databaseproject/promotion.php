@@ -12,7 +12,7 @@
   <div id="shell">
     <div id="header">
       <div class="Logo">
-        <h1>MovieHub</h1>
+        <font size="6"><h1>MovieHub</h1></font>
     </div>
       <div class="social"> <span>FOLLOW US ON:</span>
         <ul>
