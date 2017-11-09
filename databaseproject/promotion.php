@@ -54,7 +54,7 @@
                   <p class="text-right"><a href="#">See all</a></p>
                 </div>
                 <div class="movie">
-                  <div class="movie-image"> <span class="play"><span class="name">X-MAN</span></span> <a href="comingsoon.php"><img src="css/images/movie1.jpg" alt="" /></a> </div>
+                    <div class="movie-image"> <img src="css/images/movie1.jpg" alt="" /> </div>
                   <div class="rating">
                     <p>       </p>
                  </div>
@@ -72,7 +72,7 @@
                       <p class="text-right"><a href="#">See all</a></p>
                     </div>
                     <div class="movie">
-                      <div class="movie-image"> <span class="play"><span class="name">X-MAN</span></span> <a href="comingsoon.php"><img src="css/images/movie1.jpg" alt="" /></a> </div>
+                        <div class="movie-image"> <img src="css/images/movie1.jpg" alt="" /> </div>
                       <div class="rating">
                         <p>       </p>
                         </div>
@@ -89,7 +89,7 @@
                           <p class="text-right"><a href="#">See all</a></p>
                         </div>
                         <div class="movie">
-                          <div class="movie-image"> <span class="play"><span class="name">X-MAN</span></span> <a href="comingsoon.php"><img src="css/images/movie1.jpg" alt="" /></a> </div>
+                            <div class="movie-image"> <img src="css/images/movie1.jpg" alt="" /> </div>
                           <div class="rating">
                             <p>       </p>
                             </div>
@@ -106,7 +106,7 @@
                               <p class="text-right"><a href="#">See all</a></p>
                             </div>
                             <div class="movie">
-                              <div class="movie-image"> <span class="play"><span class="name">X-MAN</span></span> <a href="comingsoon.php"><img src="css/images/movie1.jpg" alt="" /></a> </div>
+                              <div class="movie-image"> <img src="css/images/movie1.jpg" alt="" /> </div>
                               <div class="rating">
                                 <p>       </p>
                                 </div>
