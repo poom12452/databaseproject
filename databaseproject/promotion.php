@@ -59,7 +59,7 @@
                     <p>       </p>
                  </div>
                 </div>
-
+                <p class="text-left"> Detail </p>
                 <div class="cl">&nbsp;</div>
               </div>
 
@@ -77,7 +77,7 @@
                         <p>       </p>
                         </div>
                     </div>
-
+                      <p class="text-left"> Detail </p>
                     <div class="cl">&nbsp;</div>
                   </div>
 
@@ -94,7 +94,7 @@
                             <p>       </p>
                             </div>
                         </div>
-
+                          <p class="text-left"> Detail </p>
                         <div class="cl">&nbsp;</div>
                       </div>
 
@@ -111,7 +111,7 @@
                                 <p>       </p>
                                 </div>
                             </div>
-
+                              <p class="text-left"> Detail </p>
                             <div class="cl">&nbsp;</div>
                           </div>
 
