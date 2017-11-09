@@ -235,6 +235,12 @@ h1#logo a {
 	height:214px;
 	position:relative;
 }
+.movie-promotion{
+	float:left;
+	width:152px;
+	height:214px;
+	position:relative;
+}
 .movie-image img {
 	width:152px;
 	height:214px;

@@ -46,6 +46,77 @@
       </div>
     </div>
 
+          <div id="main">
+            <div id="content">
+              <div class="box">
+                <div class="head">
+                  <h2>Promotion 1</h2>
+                  <p class="text-right"><a href="#">See all</a></p>
+                </div>
+                <div class="movie">
+                  <div class="movie-image"> <span class="play"><span class="name">X-MAN</span></span> <a href="comingsoon.php"><img src="css/images/movie1.jpg" alt="" /></a> </div>
+                  <div class="rating">
+                    <p>       </p>
+                 </div>
+                </div>
+
+                <div class="cl">&nbsp;</div>
+              </div>
+
+
+              <div id="main">
+                <div id="content">
+                  <div class="box">
+                    <div class="head">
+                      <h2>Promotion 2</h2>
+                      <p class="text-right"><a href="#">See all</a></p>
+                    </div>
+                    <div class="movie">
+                      <div class="movie-image"> <span class="play"><span class="name">X-MAN</span></span> <a href="comingsoon.php"><img src="css/images/movie1.jpg" alt="" /></a> </div>
+                      <div class="rating">
+                        <p>       </p>
+                        </div>
+                    </div>
+
+                    <div class="cl">&nbsp;</div>
+                  </div>
+
+                  <div id="main">
+                    <div id="content">
+                      <div class="box">
+                        <div class="head">
+                          <h2>Promotion 3</h2>
+                          <p class="text-right"><a href="#">See all</a></p>
+                        </div>
+                        <div class="movie">
+                          <div class="movie-image"> <span class="play"><span class="name">X-MAN</span></span> <a href="comingsoon.php"><img src="css/images/movie1.jpg" alt="" /></a> </div>
+                          <div class="rating">
+                            <p>       </p>
+                            </div>
+                        </div>
+
+                        <div class="cl">&nbsp;</div>
+                      </div>
+
+                      <div id="main">
+                        <div id="content">
+                          <div class="box">
+                            <div class="head">
+                              <h2>Promotion 4</h2>
+                              <p class="text-right"><a href="#">See all</a></p>
+                            </div>
+                            <div class="movie">
+                              <div class="movie-image"> <span class="play"><span class="name">X-MAN</span></span> <a href="comingsoon.php"><img src="css/images/movie1.jpg" alt="" /></a> </div>
+                              <div class="rating">
+                                <p>       </p>
+                                </div>
+                            </div>
+
+                            <div class="cl">&nbsp;</div>
+                          </div>
+
+
+
 
     <div id="footer">
         <p class="lf">Copyright &copy; 2017 <a href="#">SiteName</a> - All Rights Reserved</p>
