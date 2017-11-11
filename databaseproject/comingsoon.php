@@ -54,7 +54,7 @@
           <p class="text-right"><a href="#">See all</a></p>
         </div>
         <div class="movie">
-          <div class="movie-image"> <span class="play"><span class="name">X-MAN</span></span> <a href="comingsoon.php"><img src="css/images/movie1.jpg" alt="" /></a> </div>
+          <div class="movie-image"> <span class="play"><span class="name">X-MAN</span></span> <a href="ComingSoonDetail.php"><img src="css/images/movie1.jpg" alt="" /></a> </div>
           <div class="rating">
             <p>RATING</p>
             <div class="stars">
@@ -63,7 +63,7 @@
             <span class="comments">12</span> </div>
         </div>
         <div class="movie">
-          <div class="movie-image"> <span class="play"><span class="name">SPIDER MAN 2</span></span> <a href="comingsoon.php"><img src="css/images/movie2.jpg" alt="" /></a> </div>
+          <div class="movie-image"> <span class="play"><span class="name">SPIDER MAN 2</span></span> <a href="ComingSoonDetail.php"><img src="css/images/movie2.jpg" alt="" /></a> </div>
           <div class="rating">
             <p>RATING</p>
             <div class="stars">
@@ -72,7 +72,7 @@
             <span class="comments">12</span> </div>
         </div>
         <div class="movie">
-          <div class="movie-image"> <span class="play"><span class="name">SPIDER MAN 3</span></span> <a href="#"><img src="css/images/movie3.jpg" alt="" /></a> </div>
+          <div class="movie-image"> <span class="play"><span class="name">SPIDER MAN 3</span></span> <a href="ComingSoonDetail.php"><img src="css/images/movie3.jpg" alt="" /></a> </div>
           <div class="rating">
             <p>RATING</p>
             <div class="stars">
@@ -81,7 +81,7 @@
             <span class="comments">12</span> </div>
         </div>
         <div class="movie">
-          <div class="movie-image"> <span class="play"><span class="name">VALKYRIE</span></span> <a href="#"><img src="css/images/movie4.jpg" alt="" /></a> </div>
+          <div class="movie-image"> <span class="play"><span class="name">VALKYRIE</span></span> <a href="ComingSoonDetail.php"><img src="css/images/movie4.jpg" alt="" /></a> </div>
           <div class="rating">
             <p>RATING</p>
             <div class="stars">
@@ -90,7 +90,7 @@
             <span class="comments">12</span> </div>
         </div>
         <div class="movie">
-          <div class="movie-image"> <span class="play"><span class="name">GLADIATOR</span></span> <a href="#"><img src="css/images/movie5.jpg" alt="" /></a> </div>
+          <div class="movie-image"> <span class="play"><span class="name">GLADIATOR</span></span> <a href="ComingSoonDetail.php"><img src="css/images/movie5.jpg" alt="" /></a> </div>
           <div class="rating">
             <p>RATING</p>
             <div class="stars">
@@ -99,7 +99,7 @@
             <span class="comments">12</span> </div>
         </div>
         <div class="movie last">
-          <div class="movie-image"> <span class="play"><span class="name">ICE AGE</span></span> <a href="#"><img src="css/images/movie6.jpg" alt="" /></a> </div>
+          <div class="movie-image"> <span class="play"><span class="name">ICE AGE</span></span> <a href="ComingSoonDetail.php"><img src="css/images/movie6.jpg" alt="" /></a> </div>
           <div class="rating">
             <p>RATING</p>
             <div class="stars">
