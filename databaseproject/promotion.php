@@ -51,7 +51,7 @@
               <div class="box">
                 <div class="head">
                   <h2>Promotion 1</h2>
-                  <p class="text-right"><a href="#">See all</a></p>
+                  <p class="text-right">Available untill DD/MM/YYYY</a></p>
                 </div>
                 <div class="movie">
                     <div class="movie-image"> <img src="css/images/movie1.jpg" alt="" /> </div>
@@ -69,7 +69,7 @@
                   <div class="box">
                     <div class="head">
                       <h2>Promotion 2</h2>
-                      <p class="text-right"><a href="#">See all</a></p>
+                      <p class="text-right">Available untill DD/MM/YYYY</a></p>
                     </div>
                     <div class="movie">
                         <div class="movie-image"> <img src="css/images/movie1.jpg" alt="" /> </div>
@@ -86,7 +86,7 @@
                       <div class="box">
                         <div class="head">
                           <h2>Promotion 3</h2>
-                          <p class="text-right"><a href="#">See all</a></p>
+                          <p class="text-right">Available untill DD/MM/YYYY</a></p>
                         </div>
                         <div class="movie">
                             <div class="movie-image"> <img src="css/images/movie1.jpg" alt="" /> </div>
@@ -103,7 +103,7 @@
                           <div class="box">
                             <div class="head">
                               <h2>Promotion 4</h2>
-                              <p class="text-right"><a href="#">See all</a></p>
+                              <p class="text-right">Available untill DD/MM/YYYY</a></p>
                             </div>
                             <div class="movie">
                               <div class="movie-image"> <img src="css/images/movie1.jpg" alt="" /> </div>
