@@ -46,6 +46,21 @@
       </div>
     </div>
 
+    <div id="main">
+      <div id="content">
+        <div class="box">
+          <div class="head">
+            <h2>Coming soon Movie name</h2>
+            <p class="text-right">Available untill DD/MM/YYYY</a></p>
+          </div>
+          <div class="flexible-container">
+            <iframe src="https://b922bde52f23a8481830-83cb7d8d544f653b52d1a1621f05ea9d.ssl.cf3.rackcdn.com/video/landingpage.mp4" frameborder="0" style="border:0"></iframe>
+          </div>
+          <div class="box-moive">
+            Movie info
+          </div>
+          <div class="cl">&nbsp;</div>
+        </div>
 
 
 
