@@ -65,6 +65,12 @@ textarea {
     border: 2px solid blue;
 
 }
+.box-contact{
+	display: inline-block;
+    width:200px;
+    border:1px solid;
+    vertical-align:top
+}
 .flexible-container {
   position: relative;
   padding-bottom: 56.25%;

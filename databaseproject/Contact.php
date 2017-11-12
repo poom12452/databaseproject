@@ -46,6 +46,18 @@
       </div>
     </div>
 
+    <div id="main">
+      <div id="content">
+        <div class="box">
+
+          
+
+
+          <div class="cl">&nbsp;</div>
+        </div>
+
+
+
     <div id="footer">
         <p class="lf">Copyright &copy; 2017 <a href="#">SiteName</a> - All Rights Reserved</p>
         <p class="rf">MovieHub <br>Krittikorn Kramgomut 5822771432<br>Thanapong Maleewan 5822790275 <br> Thanarath Piyakulpinyo</p>
