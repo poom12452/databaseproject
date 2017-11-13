@@ -49,10 +49,15 @@
     <div id="main">
       <div id="content">
         <div class="box">
-
-          
-
-
+          <div class="head">
+            <h2>Contact us</h2>
+            <p class = text-right>.</p>
+          </div>
+          <div class="flexible-container-border">
+            <br>Street: 4667 Stoneybrook Road</br>
+            <br>City: Cocoa FL Florida 32922</br>
+            <br>Phone number: 321-504-0603</br>
+          </div>
           <div class="cl">&nbsp;</div>
         </div>
 

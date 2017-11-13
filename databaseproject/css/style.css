@@ -49,27 +49,34 @@ textarea {
 	float:right;
 	display:inline;
 }
+.center, .aligncenter{
+	float:center;
+	display:inline;
+}
 .text-right {
 	text-align:right;
 }
 .text-left{
 	text-align:left;
 }
+.text-center{
+	text-align:center;
+}
 .box-moive{
 	float: right;
-	position: absolute;
-    width: 200px;
+	width: 200px;
     margin-left: 10px;
     margin-top: 10px;
     padding: 5px;
     border: 2px solid blue;
+
 
 }
 .box-contact{
 	display: inline-block;
     width:200px;
     border:1px solid;
-    vertical-align:top
+    vertical-align:top;
 }
 .flexible-container {
   position: relative;
@@ -111,6 +118,7 @@ h4 {
 	color:#f3b12b;
 	font-weight:bold;
 }
+
 #shell {
 	width:980px;
 	margin:0 auto;
