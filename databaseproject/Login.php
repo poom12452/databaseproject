@@ -47,6 +47,25 @@
     </div>
   </div>
 
+    <div class="container" id="content">
+      <h1 class="text-center">Please Log in</h1>
+    <div class="row">
+      <div class="col-md-4 col-md-offset-4" id="col">
+    <div class="form-group">
+      <label for="username">Username:</label>
+      <input type="text" class="form-control" placeholder="Username" name="username">
+    </div>
+    <div class="form-group">
+      <label for="password">Password:</label>
+      <input type="password" class="form-control" placeholder="Password" name="password">
+    </div>
+
+  <div class="form-group">
+  <input type="submit" value="Login" class="btn btn-blue btn-lg btn-block" name="btn-login" onclick="login()"/>
+  </div>
+</div>
+</div>
+
 
 
 
