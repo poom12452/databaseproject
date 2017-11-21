@@ -25,7 +25,7 @@
     </div>
     <div id="navigation">
       <ul>
-        <li><a href="Home">Home</a></li>
+        <li><a href="homepage.php">Home</a></li>
         <li><a href="movie.php">Now Showing</a></li>
         <li><a class="active" href="comingsoon.php">Coming Soon</a></li>
         <li><a href="promotion.php">Promotion</a></li>
