@@ -6,6 +6,9 @@
 <link rel="stylesheet" href="css/homepage1.css" type="text/css" media="all" />
 <script type="text/javascript" src="js/jquery-1.4.2.min.js"></script>
 <script type="text/javascript" src="js/jquery-func.js"></script>
+<script src="js/jquery.min.js"></script>
+<script src="js/popper.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
 <!--[if IE 6]><link rel="stylesheet" href="css/ie6.css" type="text/css" media="all" /><![endif]-->
 </head>
 <body>
@@ -121,7 +124,7 @@
               <span class="comments">12</span> </div>
           </div>
           <div class="movie">
-            <div class="movie-image"> <span class="play"><span class="name">SPIDER MAN 3</span></span> <a href="ComingSoonDetail.php"><img src="css/images/movie3.jpg" alt="" /></a> </div>
+            <div class="movie1-image"> <span class="play"><span class="name">SPIDER MAN 3</span></span> <a href="ComingSoonDetail.php"><img src="css/images/movie3.jpg" alt="" /></a> </div>
             <div class="rating">
               <p>RATING</p>
               <div class="stars">
@@ -130,7 +133,7 @@
               <span class="comments">12</span> </div>
           </div>
           <div class="movie">
-            <div class="movie-image"> <span class="play"><span class="name">VALKYRIE</span></span> <a href="ComingSoonDetail.php"><img src="css/images/movie4.jpg" alt="" /></a> </div>
+            <div class="movie1-image"> <span class="play"><span class="name">VALKYRIE</span></span> <a href="ComingSoonDetail.php"><img src="css/images/movie4.jpg" alt="" /></a> </div>
             <div class="rating">
               <p>RATING</p>
               <div class="stars">
@@ -139,7 +142,7 @@
               <span class="comments">12</span> </div>
           </div>
           <div class="movie">
-            <div class="movie-image"> <span class="play"><span class="name">GLADIATOR</span></span> <a href="ComingSoonDetail.php"><img src="css/images/movie5.jpg" alt="" /></a> </div>
+            <div class="movie1-image"> <span class="play"><span class="name">GLADIATOR</span></span> <a href="ComingSoonDetail.php"><img src="css/images/movie5.jpg" alt="" /></a> </div>
             <div class="rating">
               <p>RATING</p>
               <div class="stars">
@@ -158,7 +161,7 @@
           </div>
           <div class="cl">&nbsp;</div>
         </div>
-        
+
   <div id="footer">
     <p class="lf">Copyright &copy; 2010 <a href="#">SiteName</a> - All Rights Reserved</p>
     <p class="rf">MovieHub <br>Krittikorn Kramgomut 5822771432<br>Thanapong Maleewan 5822790275 <br> Thanarath Piyakulpinyo</p>
@@ -168,3 +171,4 @@
 <!-- END PAGE SOURCE -->
 </body>
 </html>
+<!--sdsdsdsdd-->
