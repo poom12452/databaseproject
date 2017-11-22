@@ -64,7 +64,7 @@
   <input type="submit" value="Login" class="btn btn-blue btn-lg btn-block" name="btn-login" onclick="login()"/>
   </div>
   <div class="form-group">
-  <a href="#" class="btn btn-blue btn-lg btn-block">Sign Up</a>
+  <a href="SignUp.php" class="btn btn-blue btn-lg btn-block">Sign Up</a>
   </div>
 </div>
 </div>
