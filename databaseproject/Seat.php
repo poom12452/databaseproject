@@ -8,6 +8,8 @@
 <script type="text/javascript" src="js/jquery-func.js"></script>
 <script src="js/jquery-1.11.0.min.js"></script>
 <script src="js/jquery.seat-charts.js"></script>
+<script src="js/jquery-1.11.0.min.js"></script>
+<script src="js/jquery.seat-charts.js"></script>
 <!--[if IE 6]><link rel="stylesheet" href="css/ie6.css" type="text/css" media="all" /><![endif]-->
 </head>
 <body>
@@ -167,6 +169,8 @@
       <p class="rf">MovieHub <br>Krittikorn Kramgomut 5822771432<br>Thanapong Maleewan 5822790275 <br> Thanarath Piyakulpinyo</p>
       <div style="clear:both;"></div>
   </div>
+  <script src="js/jquery.nicescroll.js"></script>
+  <script src="js/scripts.js"></script>
   <!-- END PAGE SOURCE -->
   </body>
   </html>
