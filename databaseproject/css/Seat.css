@@ -172,7 +172,7 @@ ul.seatCharts-legendList {
 	line-height: 2;
 	}
 span.seatCharts-legendDescription {
-	margin-left: 5px;
+	margin-left: 2px;
 	line-height: 30px;
 	}
 .checkout-button {
@@ -463,8 +463,8 @@ ul.book-right li {
 		width: 90%;
 	}
 	div.seatCharts-cell {
-		height: 22px;
-		width: 22px;
+		height: 25px;
+		width: 25px;
 		line-height: 22px;
 		font-size: 11px;
 	}
@@ -473,7 +473,7 @@ ul.book-right li {
 	}
 	span.seatCharts-legendDescription {
 		line-height: 0px;
-		font-size: 13px;
+		font-size: 20px;
 	}
 }
 
@@ -483,10 +483,10 @@ ul.book-right li {
 	outline:0;
 }
 body {
-	font-size:12px;
+	font-size:20px;
 	line-height:1.3;
 	font-family:Arial, Helvetica, Sans-Serif;
-	color:#ccc;
+	color:black;
 	background:url('images/body-bg.gif');
 }
 a {
@@ -932,8 +932,8 @@ div.seatCharts-container {
 }
 div.seatCharts-cell {
 
-	height: 16px;
-	width: 16px;
+	height: 17.5px;
+	width: 17.5px;
 	margin: 3px;
 	float: left;
 	text-align: center;
@@ -971,15 +971,15 @@ div.seatCharts-row:after {
 }
 
 div.seatCharts-seat.selected {
-	background-color: aqua;
+	background-color: green;
 }
 
 div.seatCharts-seat.focused {
-	background-color: #6db131;
+	background-color: green;
 }
 
 div.seatCharts-seat.available {
-	background-color: green;
+	background-color: gray;
 }
 
 div.seatCharts-seat.unavailable {
