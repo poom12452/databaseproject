@@ -59,7 +59,7 @@
                     <p>       </p>
                  </div>
                 </div>
-                <p class="text-left"> Detail </p>
+                <a href="seat.php" class ="Showtimebutton"> Time button</a>
                 <div class="cl">&nbsp;</div>
               </div>
 
@@ -75,9 +75,9 @@
                         <div class="movie-image"> <img src="css/images/movie1.jpg" alt="" /> </div>
                       <div class="rating">
                         <p>       </p>
-                        </div>
+                     </div>
                     </div>
-                      <p class="text-left"> Detail </p>
+                    <a href="seat.php" class ="Showtimebutton"> Time button</a>
                     <div class="cl">&nbsp;</div>
                   </div>
 
@@ -92,9 +92,9 @@
                             <div class="movie-image"> <img src="css/images/movie1.jpg" alt="" /> </div>
                           <div class="rating">
                             <p>       </p>
-                            </div>
+                         </div>
                         </div>
-                          <p class="text-left"> Detail </p>
+                        <a href="seat.php" class ="Showtimebutton"> Time button</a>
                         <div class="cl">&nbsp;</div>
                       </div>
 
@@ -102,16 +102,16 @@
                         <div id="content">
                           <div class="box">
                             <div class="head">
-                              <h2>Movie Name</h2>
+                              <h2>Movie name</h2>
                               <p class="text-right">Available untill DD/MM/YYYY</a></p>
                             </div>
                             <div class="movie">
-                              <div class="movie-image"> <img src="css/images/movie1.jpg" alt="" /> </div>
+                                <div class="movie-image"> <img src="css/images/movie1.jpg" alt="" /> </div>
                               <div class="rating">
                                 <p>       </p>
-                                </div>
+                             </div>
                             </div>
-                              <p class="text-left"> Detail </p>
+                            <a href="seat.php" class ="Showtimebutton"> Time button</a>
                             <div class="cl">&nbsp;</div>
                           </div>
 

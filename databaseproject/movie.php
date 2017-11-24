@@ -54,7 +54,7 @@
           <p class="text-right"><a href="#">See all</a></p>
         </div>
         <div class="movie">
-          <div class="movie-image"> <span class="play"><span class="name">X-MAN</span></span> <a href="#"><img src="css/images/movie1.jpg" alt="" /></a> </div>
+          <div class="movie-image"> <span class="play"><span class="name">X-MAN</span></span> <a href="moviedetail.php"><img src="css/images/movie1.jpg" alt="" /></a> </div>
           <div class="rating">
             <p>RATING</p>
             <div class="stars">

@@ -57,6 +57,7 @@
             <br>Street: 4667 Stoneybrook Road</br>
             <br>City: Cocoa FL Florida 32922</br>
             <br>Phone number: 321-504-0603</br>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3871.6254471476263!2d100.55231221467525!3d13.98088619571066!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30e2816a36612db5%3A0x93479a9083b7dda7!2sSIIT+Bangkadi!5e0!3m2!1sen!2sth!4v1511523593457" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
           </div>
           <div class="cl">&nbsp;</div>
         </div>
