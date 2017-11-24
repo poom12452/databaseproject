@@ -25,9 +25,9 @@
       <div id="navigation">
         <ul>
           <li><a href="homepage.php">HOME</a></li>
-          <li><a href="movie.php">Now Showing</a></li>
+          <li><a class = "active" href="movie.php">Now Showing</a></li>
           <li><a href="comingsoon.php">Coming Soon</a></li>
-          <li><a class="active" href="promotion.php">Promotion</a></li>
+          <li><a href="promotion.php">Promotion</a></li>
           <li><a href="Login.php">Sign Up/Login</a></li>
           <li><a href="Contact.php">Contact Us</a></li>
         </ul>
@@ -50,7 +50,7 @@
             <div id="content">
               <div class="box">
                 <div class="head">
-                  <h2>Promotion 1</h2>
+                  <h2>Movie name</h2>
                   <p class="text-right">Available untill DD/MM/YYYY</a></p>
                 </div>
                 <div class="movie">
@@ -68,7 +68,7 @@
                 <div id="content">
                   <div class="box">
                     <div class="head">
-                      <h2>Promotion 2</h2>
+                      <h2>Movie name</h2>
                       <p class="text-right">Available untill DD/MM/YYYY</a></p>
                     </div>
                     <div class="movie">
@@ -85,7 +85,7 @@
                     <div id="content">
                       <div class="box">
                         <div class="head">
-                          <h2>Promotion 3</h2>
+                          <h2>Movie name</h2>
                           <p class="text-right">Available untill DD/MM/YYYY</a></p>
                         </div>
                         <div class="movie">
@@ -102,7 +102,7 @@
                         <div id="content">
                           <div class="box">
                             <div class="head">
-                              <h2>Promotion 4</h2>
+                              <h2>Movie Name</h2>
                               <p class="text-right">Available untill DD/MM/YYYY</a></p>
                             </div>
                             <div class="movie">
