@@ -50,9 +50,9 @@
       </div>
     </div>
     <div class="content">
-    	<h1>Movie Ticket Booking Widget</h1>
+    	<h1>Movie Name</h1>
     	<div class="main">
-    		<h2>Multiplex Theatre Showing Screen 1</h2>
+    		<h2>Thearter Number</h2>
     		<div class="demo">
           <div id="seat-map" class="seatCharts-container" tabindex="0">
 				<div class="front">SCREEN</div>
